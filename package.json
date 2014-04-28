@@ -1,9 +1,10 @@
 {
-  "name": "everymote-candy"
-  ,"version": "0.0.1"
-  ,"description": "Candy machine connection to everymote"
-  ,"homepage": "http://www.everymote.com"
-  ,"dependencies": { 
-	  	"socket.io-client":"" 
-	}
+  "name": "everymote-candy",
+  "version": "0.0.1",
+  "description": "Candy machine connection to everymote",
+  "homepage": "http://www.everymote.com",
+  "dependencies": {
+    "socket.io-client": "",
+    "request": "~2.34.0"
+  }
 }
